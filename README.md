@@ -9,3 +9,4 @@ Créer une partie de site protégée par mot de passe
 - Ajoutez un css à vos pages.
 
 Vous êtes libre d'utiliser une session, ce qui est préférable si vous souhaitez par exemple autoriser l'accès à plusieurs pages...
+
